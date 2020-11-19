@@ -1,2 +1,2 @@
-# angryBirdsStage2
+# modified angrybirds
 Angry Birds stage 2 with Class Inheritance and Images
